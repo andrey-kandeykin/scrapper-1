@@ -1,0 +1,90 @@
+﻿[
+    {
+        "person_name": "Dr. Michael von Abercron",
+        "person_company": "CDU/CSU",
+        "social_networks": [
+            "http://www.von-abercron.de/",
+            "https://www.facebook.com/mvabercron/",
+            "https://twitter.com/mvabercron/"
+        ]
+    },
+    {
+        "person_name": "Doris Achelwilm",
+        "person_company": "Die Linke",
+        "social_networks": [
+            "http://www.doris-achelwilm.de/",
+            "https://www.facebook.com/doris.achelwilm.dielinke/",
+            "https://twitter.com/DorisAchelwilm",
+            "https://www.instagram.com/doris_achelwilm/"
+        ]
+    },
+    {
+        "person_name": "Grigorios Aggelidis",
+        "person_company": "FDP",
+        "social_networks": [
+            "http://www.grigorios-aggelidis.de",
+            "https://www.facebook.com/Aggelidis.Grigorios/?ref=ts&fref=ts",
+            "https://twitter.com/aggelidis_fdp?lang=de",
+            "https://www.instagram.com/grigorios.aggelidis/?hl=de"
+        ]
+    },
+    {
+        "person_name": "Gökay Akbulut",
+        "person_company": "Die Linke",
+        "social_networks": [
+            "https://goekay-akbulut.de/",
+            "https://www.facebook.com/gokay.akbulut.146",
+            "https://twitter.com/akbulutgokay?lang=de",
+            "https://www.instagram.com/gokayakbulut_mdb_linke/?hl=de"
+        ]
+    },
+    {
+        "person_name": "Stephan Albani",
+        "person_company": "CDU/CSU",
+        "social_networks": [
+            "http://www.stephan-albani.de"
+        ]
+    },
+    {
+        "person_name": "Renata Alt",
+        "person_company": "FDP",
+        "social_networks": [
+            "http://www.renata-alt.de",
+            "https://www.facebook.com/AltRenata/"
+        ]
+    },
+    {
+        "person_name": "Norbert Altenkamp",
+        "person_company": "CDU/CSU",
+        "social_networks": [
+            "http://www.norbert-altenkamp.de/",
+            "https://www.facebook.com/AltenkampMdB/"
+        ]
+    },
+    {
+        "person_name": "Peter Altmaier",
+        "person_company": "CDU/CSU",
+        "social_networks": [
+            "http://www.peteraltmaier.de/",
+            "https://de-de.facebook.com/peter.altmaier/",
+            "https://twitter.com/peteraltmaier"
+        ]
+    },
+    {
+        "person_name": "Philipp Amthor",
+        "person_company": "CDU/CSU",
+        "social_networks": [
+            "http://www.philipp-amthor.de/",
+            "https://www.facebook.com/amthor.philipp/"
+        ]
+    },
+    {
+        "person_name": "Luise Amtsberg",
+        "person_company": "Bündnis 90/Die Grünen",
+        "social_networks": [
+            "http://www.luise-amtsberg.de",
+            "https://de-de.facebook.com/LuiseAmtsberg/",
+            "https://www.instagram.com/amtsbergluise/?hl=de"
+        ]
+    }
+]
